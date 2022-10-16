@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../react/mini-react"
+    },
+    {
+      "path": "../../react/react18-ice"
+    }
+  ],
+  "settings": {}
+}
